@@ -1,0 +1,7 @@
+Pillow==9.2.0           # for PIL.Image
+pytesseract==0.3.10     # for image_to_string
+python-docx==0.8.11     # for Document (docx)
+pandas==1.5.2           # for pandas (pd)
+opencv-python-headless==4.6.0.66  # for cv2
+PyPDF2==3.0.1           # for PdfReader
+numpy==1.23.5           # for numpy (np)
